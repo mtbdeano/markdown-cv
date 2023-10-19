@@ -7,7 +7,7 @@ I am an accomplished senior engineering leader with experience integrating cross
 My background includes a diverse background across many aspects of DevOps, infrastructure, IT, and custom application development from ecommerce and logistics to fintech, research, and technology consulting.
 My biggest strength is the ability to grow teams of IT and engineering leaders to achieve meaningful business results.
 ## CTO @ Kaiyo
-### 2023 - present, New York, NY
+#### 2023 - present, New York, NY
 Kaiyo is a custom ecommerce marketplace built on top of a bespoke order and warehouse management system that supports white glove local delivery and cross-country inventory management. As the CTO, I was responsible for product management, design, and development including integration with third-party IT applications including Samsara, Brivo, HR and financial back-end applications. I ran a product management and design team, a team of front-end and back-end engineers building our ecommerce engine and order / warehouse management application, a small team of data scientists and engineers to build the business operating data on top of our systems, and our IT department. I improved observability across off the shelf and custom applications, increased deployment frequency (by 50%), reduced lead times for features (from 2.5 days to ~5 hours), and reduced mean time to resolve all levels of issues (escaped defects to security incidents).
 ## VP of Engineering @ Splice
 ### 2021 - 2022, New York, NY
