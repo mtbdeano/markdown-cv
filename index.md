@@ -2,90 +2,43 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+---
+layout: cv
+title: Dean McRobie's CV
+---
+# Dean McRobie
+I am an accomplished senior engineering leader with experience integrating cross-disciplinary, remote and co-located teams, defining organization and technology strategy, implementing organizational technology vision, and delivering measurable business results.
+My background includes a diverse background across many aspects of DevOps, infrastructure, IT, and custom application development from ecommerce and logistics to fintech, research, and technology consulting.
+My biggest strength is the ability to grow teams of IT and engineering leaders to achieve meaningful business results.
+# CTO @ Kaiyo
+## 2023 - present, New York, NY
+Kaiyo is a custom ecommerce marketplace built on top of a bespoke order and warehouse management system that supports white glove local delivery and cross-country inventory management. As the CTO, I was responsible for product management, design, and development including integration with third-party IT applications including Samsara, Brivo, HR and financial back-end applications. I ran a product management and design team, a team of front-end and back-end engineers building our ecommerce engine and order / warehouse management application, a small team of data scientists and engineers to build the business operating data on top of our systems, and our IT department. I improved observability across off the shelf and custom applications, increased deployment frequency (by 50%), reduced lead times for features (from 2.5 days to ~5 hours), and reduced mean time to resolve all levels of issues (escaped defects to security incidents).
+# VP of Engineering @ Splice
+## 2021 - 2022, New York, NY
+Splice is a music company that provides the building blocks of music production: samples, plugins, and technology to help create music of all kinds. As the VP of Engineering, I rebuilt the culture and structure of the engineering teams to rescue a failed microservices migration. This included developing an effective competency model and leveling framework, developing successful engineering manager training programs, performance management, and technology representation in the C-suite. In addition, I focused a team of 90 engineers and 4 Directors to migrate from Scrum-based agile development to enterprise Kanban resulted in a 70% increase in feature release velocity. We also standardized service deployment through containers and created a low friction, high satisfaction developer experience for our teams. To support product innovation, I developed a series of hackathon and product brainstorming capabilities that propelled Splice into the AI-music generation space.
+# Managing Director & Architect @ Agio
+## 2020 - 2021, New York, NY
+Agio is a financial services focused IT services company. I created a data and artificial intelligence-based product organization to help accelerate service delivery for cybersecurity and managed IT clients. Integrated streams of IT application data into a single data repository. Migrated core capabilities to ServiceNow and built a flexible data lake and data ingestion system to allow data science teams to enhance service delivery for Agio across the client base. 
+# CTO / CIO @ CommonBond
+## 2017 - 2020, New York, NY
+CommonBond was a student lending fintech startup which grew from less than $1B in assets when I joined to more than $3B by migrating from an off the shelf risk model to an in-house developed and managed capability.
+As the **CTO**, I was responsible for company technology strategy, hiring and team development, application architecture, DevOps and infrastructure, engineering best practices and code quality. This included accelerating the company from a single team of 15 engineers focused on a single product to a modern, agile, squad-based organization of 50 engineers, designers, and product managers building three product lines. While this growth was happening, I was also achieved our SOC2 Type II certification. I migrated CommonBond to infrastructure as code using Terraform and container-based continuous delivery on Kubernetes. 
+# CTO / CIO @ L2 Digital
+## 2014 - 2017, New York, NY
 
+As the **CTO**, I was responsible for  overall technology strategy, technical architecture, design, development, quality assurance, and delivery.  I created a new core operating application and big data analytics environment that increased company value from 2.5x revenue to 7x revenue. I re-architected and re-platformed our web scraping platforms from Java to a more flexible Python microservices application core, deployed using Docker containers and Ansible orchestration. This resulted in an increase in throughput of more than 400%. I increased automation across our core business processes from 10% to more than 50%, saving months of time per year. This helped drive a 70% YoY increase in revenue.
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+As the **CIO**, I designed our office and cloud networks including hosting, proxy networks, virtual private cloud, and desktop support systems. Implemented a flexible helpdesk system and reduced break/fix and system downtime to negligible levels.
+# Director & Platform CTO @ Omnicom
+## 2008 - 2014, New York, NY
+I was initially focused on building digital marketing and ecommerce tools for Omnicom brands including Bank of America, Chrysler, Jeep, Dodge, Equinox, and Coach. I managed a remote team of over 100 software engineers in San Francisco, Detroit, Toronto and New York.
+Later at Omnicom, I was selected to build a product company focused on innovative digital marketing analytics tools and a global marketing data lake. Combining global outsourced teams with rapid, local agile product innovation, we created tools that Omnicom used to compete with other major advertising agencies. 
+Migrated more than 100 hosts and applications, from fixed AT&T hosting infrastructure to AWS private cloud. This included operational data stores, warehouses, front-line web applications, authentication and security infrastructure. This is saved more than 40% against our hosting budgets in 2014.
+# Director @ Sapient
+## 2000 - 2007, Arlington, VA
+As a **client executive** for Sapient from I developed business; closed and negotiated contracts; delivered solutions on time and on budget; managed profit and loss in a public company; and consistently ranked as one of the top leaders in the company. Clients included ecommerce for Under Armor, digital marketing stack for XO Communications, and social media management platform for Hershey's. These projects combine IT expertise, analytics, project management, and best-of-breed software as a service within innovative agile project management to create predictable results in a rapidly changing environment. 
+As one of four directors who led a vertical industry business unit (from 2004 to 2007), I developed the go-to-market approach, staffing mix, revenue forecasting, profit and loss targets, type of business, strategic partner relationships, and strategic account targets that stabilized revenue and returned the unit to year-over-year **profitable growth**.
+As a **solution architect**, developed a large comparative data warehouse that tracked, compared, and analyzed millions of Verizon customer support calls to minimize fines and track performance. This work used leading edge Oracle and SAS analytics to develop statistical analysis, reporting, dashboards, and ad hoc analytics of this data warehouse.
 
 
